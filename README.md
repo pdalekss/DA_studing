@@ -1,3 +1,3 @@
 # Data_Analytics_studing
 
-Repository with mini-projects from courses
+Repository with some tasks from the Data Analyst course
